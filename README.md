@@ -46,9 +46,3 @@ Implementation of predictive analytics
 Customer behavior analysis
 Cloud deployment using Microsoft Power BI Service
 
-
-
-Author Section
-Aman Chouhan
-Computer Science Engineering
-MS Elevate AICTE Internship Project
